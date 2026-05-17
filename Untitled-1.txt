@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Halaman Mode Gelap</title>
+  <style>
+    
+    body {
+      background-color: #121212; 
+      color: #e0e0e0;            
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #ffffff;
+    }
+
+    p {
+      color: #cccccc;
+    }
+
+    a {
+      color: #4fc3f7; 
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background-color: #1e1e1e;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(255,255,255,0.1);
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1 style="text-align: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"> 📖 Bangun Ruang Prisma 📖</h1>
+    
+    <img src ="https://tse3.mm.bing.net/th/id/OIP.DkedjacDF84ZZcRBu31NbwHaEK?pid=Api&P=0&h=220" sizes="width 200 px height 127 px" style="display: block; margin: 0 auto;"
+    >
+
+    <p style="text-align: center;font-family: Verdana, Geneva, Tahoma, sans-serif;"><strong> Apa itu Prisma? </strong></p>
+    <p>Pernah lihat kotak susu? Bentuknya punya sisi depan dan belakang yang sama besar, kan? Bagian atas dan bawahnya juga sejajar, sedangkan sisi-sisinya berupa persegi panjang.</p>
+    <img src="https://png.pngtree.com/png-clipart/20221027/ourlarge/pngtree-susu-kotak-png-image_6389272.png" width="250" 
+  style="display: block; margin: 0 auto;">
+    <p>Secara umum, Prisma merupakan bangun ruang tiga dimensi yang tersusun atas dua bangun datar yang sejajar dan kongruen (memiliki bentuk serta ukuran yang sama) sebagai alas dan tutupnya. Sementara itu, sisi-sisi tegaknya berupa bidang persegi panjang yang berfungsi menghubungkan kedua alas tersebut. Penamaan suatu prisma didasarkan pada bentuk alasnya. Apabila alasnya berbentuk segitiga, bangun tersebut disebut prisma segitiga, dan jika alasnya berbentuk segilima, maka dinamakan prisma segilima. </p>
+    <p><strong> Jenis-Jenis Prisma </strong></p>
+    <p>Macam-macam prisma dibedakan berdasarkan bentuk alas dan tutupnya, di antaranya sebagai berikut:</p>
+    <p><strong> 1. Prisma Segitiga </strong></p> 
+    <img src="https://4.bp.blogspot.com/-MXF41jxmQHs/VXfTGzcI1zI/AAAAAAAACRc/xwVpluAi870/s1600/Teknik%2BMenghitung%2BRumus%2BPrisma%2BSegitiga%2BLuas%2Bdan%2BVolume%2BLengkap.png" width="150" style="display: block; margin: 0 auto;">  
+    <p> Dari gambar diatas dapat kita ketahui bahwa prisma segitiga memiliki alas dan tutup yang berbentuk segitiga, sehingga memiliki lima sisi, yakni tiga sisi tegak, satu alas, dan satu tutup.</p>
+    <p><strong> 2. Prisma Segiempat </strong></p> 
+    <img src="https://tse4.mm.bing.net/th/id/OIP.O5LpliyrHQopGGeW473v4wAAAA?pid=Api&P=0&h=220" style="display: block; margin: 0 auto;"> 
+    <p>Dari gambar diatas dapat kita ketahui Prisma segiempat memiliki alas dan tutup yang berbentuk segiempat, sehingga memiliki enam sisi, yakni empat sisi tegak, satu alas, dan satu tutup. Pada prisma segiempat, terdapat bentuk khusus, yaitu balok dan kubus.</p>
+    <p><strong> 3. Prisma Segilima </strong></p> 
+    <img src="https://tse1.mm.bing.net/th/id/OIP.NyEGGGgS-RzY148uZUI3CQAAAA?pid=Api&P=0&h=220" style="display: block; margin: 0 auto;">
+    <p>Dari gambar diatas Prisma segilima memiliki alas dan tutup yang berbentuk segilima, sehingga memiliki tujuh sisi, yakni lima sisi tegak, satu alas, dan satu tutup.</p>
+    <p><strong> 4. Prisma Segienam </strong></p> 
+    <img src="https://tse1.mm.bing.net/th/id/OIP.mLEpMa1aZtuRe9t-UInnkwAAAA?pid=Api&P=0&h=220" style="display: block; margin: 0 auto;">
+    <p>Dari gambar diatas Prisma segienam memiliki alas dan tutup yang berbentuk segienam, sehingga memiliki delapan sisi, yakni enam sisi tegak, satu alas, dan satu tutup</p>
+    <p><strong> 5. Prisma Segi-n </strong></p> 
+    <img src="https://tse4.mm.bing.net/th/id/OIP.UaAyouiNjRKuM95ElL16XAAAAA?pid=Api&P=0&h=220" style="display: block; margin: 0 auto;">
+    <p>Dari gambar diatas Selain yang sudah disebutkan di atas, ada juga jenis prisma segi-n. Contohnya prisma segi-7, prisma segi-8, prisma segi-9, prisma segi-10, dan seterusnya</p>
+    <p><strong> 6. Tabung </strong></p> 
+    <img src="https://tse2.mm.bing.net/th/id/OIP.WcCY-BIMMg8OBuFDbBeD3gHaC7?pid=Api&P=0&h=220" style="display: block; margin: 0 auto;"> 
+    <p>Dari gambar diatas Tabung merupakan jenis prisma khusus dimana alas dan tutupnya berbentuk lingkaran. Sehingga, memiliki sisi tegak atau selimut berupa sisi lengkung yang jika dibuka berbentuk persegi panjang.  Total sisinya menjadi 3, yakni alas, tutup, dan sisi lengkung.</p>
+    <p><strong> Sifat-Sifat Prisma: </strong></p>
+    <ul>
+  <li>Memiliki dua bidang sejajar yang sama besar (alas dan tutup).</li>
+  <li>Sisi tegaknya berbentuk persegi panjang.</li>
+  <li>Jumlah sisi, rusuk, dan titik sudut bergantung pada bentuk alasnya.</li>
+  <li>Penampang sejajar dengan alas selalu sebangun.</li>
+  <li>Volume = luas alas × tinggi prisma.</li>
+  <li>Terdapat rumus khusus untuk mencari banyaknya rusuk, titik sudut, diagonal bidang, diagonal ruang, dan bidang diagonalnya, yakni:
+    <ul>
+  <p></p><li>Banyak sisi: n + 2</li>
+  <li> Jumlah rusuk: 3n </li>
+  <li>Jumlah titik sudut: 2n</li>
+  <li>Banyak diagonal sisi/bidang: n(n-1)</li>
+  <li>Banyak diagonal ruang: n(n-3)</li>
+  <li>Banyak bidang diagonal, jika n genap: ½n(n-1)</li>
+  <li>Banyak bidang diagonal, jika n ganjil: ½n(n-3)</li>
+  </ul>
+<p>Berikut adalah tautan website pembelajaran materi Bangun Ruang Prisma:</p>
+    <p><a href="https://www.ruangguru.com/blog/pengertian-sifat-dan-rumus-rumus-prisma">Pengertian Prisma by Ruangguru</a></p>
+    <p><a href="https://www.zenius.net/blog/rumus-prisma-dan-pengertiannya/">Rumus Prisma dan Pengertiannya by Zenius</a></p>
+    <p></p><a href="https://gurubelajarku.com/prisma/">Guru Belajar Prisma</a></p>
+    
+    <!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kuis Mini: Prisma (Kelas 8)</title>
+  <style>
+    :root{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial;}
+    body{background:#7ea6e2;margin:0;padding:24px;display:flex;justify-content:center}
+    
+    h1{margin:0 0 6px;font-size:20px}
+    p.lead{margin:0 0 18px;color:#444}
+    .row{display:flex;gap:12px}
+    label{display:block;margin-bottom:6px;font-weight:600}
+    input[type="text"],input[type="number"],select,textarea{width:100%;padding:8px 10px;border:1px solid #d7dcef;border-radius:6px}
+    .field{margin-bottom:14px}
+    .questions{margin-top:8px}
+    .q{padding:12px;border-radius:8px;background:#6693c0;border:1px solid #eef3fb;margin-bottom:10px}
+    .actions{display:flex;gap:10px;align-items:center;margin-top:12px}
+    button{padding:10px 14px;border-radius:8px;border:0;cursor:pointer}
+    .btn-primary{background:#2563eb;color:white}
+    .btn-secondary{background:#eef2ff;color:#111}
+    .result{margin-top:16px;padding:12px;border-radius:8px;background:#f0fdf4;border:1px solid #d1fae5;color:#065f46}
+    .wrong{background:#c76168;border:1px solid #fecaca;color:#7f1d1d}
+    .explain{font-size:13px;margin-top:8px;color:#334}
+    footer{font-size:13px;color:#666;margin-top:18px}
+    @media (max-width:560px){.row{flex-direction:column}}
+  </style>
+</head>
+<body>
+  <main class="card">
+    <h1>Kuis Mini: Prisma (Kelas 8)</h1>
+    <p class="lead">Isi identitas kemudian kerjakan 5 soal singkat tentang prisma. Nilai otomatis muncul setelah submit.</p>
+
+    <form id="quizForm">
+      <div class="row">
+        <div style="flex:2" class="field">
+          <label for="nama">Nama lengkap</label>
+          <input id="nama" name="nama" type="text" required placeholder="Contoh: Siti Aisyah" />
+        </div>
+        <div style="flex:1" class="field">
+          <label for="kelas">Kelas</label>
+          <input id="kelas" name="kelas" type="text" required placeholder="Contoh: 8A" />
+        </div>
+        <div style="flex:1" class="field">
+          <label for="nis">NIS / ID</label>
+          <input id="nis" name="nis" type="text" placeholder="Opsional" />
+        </div>
+      </div>
+
+      <div class="questions">
+        <div class="q" id="q1">
+          <label>1. Prisma memiliki dua bidang yang sejajar dan kongruen disebut...</label>
+          <div>
+            <label><input type="radio" name="q1" value="a" required> A. Rusuk</label><br>
+            <label><input type="radio" name="q1" value="b"> B. Alas dan tutup</label><br>
+            <label><input type="radio" name="q1" value="c"> C. Sisi tegak</label><br>
+            <label><input type="radio" name="q1" value="d"> D. Diagonal ruang</label>
+          </div>
+        </div>
+
+        <div class="q" id="q2">
+          <label>2. Jika sebuah prisma segitiga memiliki alas segitiga dengan luas 12 cm² dan tinggi prisma 5 cm, maka volume prisma itu adalah...</label>
+          <div>
+            <label><input type="radio" name="q2" value="a" required> A. 60 cm³</label><br>
+            <label><input type="radio" name="q2" value="b"> B. 17 cm³</label><br>
+            <label><input type="radio" name="q2" value="c"> C. 6 cm³</label><br>
+            <label><input type="radio" name="q2" value="d"> D. 120 cm³</label>
+          </div>
+        </div>
+
+        <div class="q" id="q3">
+          <label>3. Berapa jumlah rusuk pada prisma segiempat (prisma dengan alas persegi) yang standar?</label>
+          <div>
+            <label><input type="radio" name="q3" value="a" required> A. 8</label><br>
+            <label><input type="radio" name="q3" value="b"> B. 12</label><br>
+            <label><input type="radio" name="q3" value="c"> C. 16</label><br>
+            <label><input type="radio" name="q3" value="d"> D. 10</label>
+          </div>
+        </div>
+
+        <div class="q" id="q4">
+          <label>4. Pilih pernyataan yang benar tentang prisma:</label>
+          <div>
+            <label><input type="radio" name="q4" value="a" required> A. Alas dan tutup berbentuk sama, bidang tegak selalu persegi</label><br>
+            <label><input type="radio" name="q4" value="b"> B. Semua rusuk pada prisma selalu sama panjang</label><br>
+            <label><input type="radio" name="q4" value="c"> C. Volume prisma = luas alas × tinggi prisma</label><br>
+            <label><input type="radio" name="q4" value="d"> D. Prisma tidak memiliki alas</label>
+          </div>
+        </div>
+
+        <div class="q" id="q5">
+          <label>5. (Isian) Sebuah prisma segitiga mempunyai alas segitiga dengan panjang alas 6 cm dan tinggi alas 4 cm. Tinggi prisma 10 cm. Hitung volume prisma tersebut (jawab dalam cm³):</label>
+          <div>
+            <input type="number" name="q5" id="q5" required placeholder="Masukkan angka, mis. 120" step="any">
+          </div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button type="submit" class="btn-primary">Kirim & Nilai</button>
+        <button type="button" id="resetBtn" class="btn-secondary">Reset</button>
+        <div style="margin-left:auto;color:#555;font-size:13px">Total soal: 5</div>
+      </div>
+
+      <div id="feedback" aria-live="polite"></div>
+    </form>
+
+    <footer>
+      Pastikan nama dan kelas diisi dengan benar. Jika perlu soal lain atau tingkat kesulitan berbeda, beri tahu guru/penyusun.
+    </footer>
+  </main>
+
+  <script>
+    const answers = {
+      q1: 'b',
+      q2: 'a',
+      q3: 'b',
+      q4: 'c'
+    };
+
+    document.getElementById('quizForm').addEventListener('submit', function(e){
+      e.preventDefault();
+      const form = e.target;
+      const data = new FormData(form);
+      const name = data.get('nama')?.trim();
+      const kelas = data.get('kelas')?.trim();
+
+      let score = 0;
+      let total = 5;
+      const details = [];
+
+      ['q1','q2','q3','q4'].forEach(q => {
+        const val = data.get(q);
+        const correct = answers[q];
+        if(val === correct){ score += 1; details.push({q,ok:true}); }
+        else { details.push({q,ok:false, given:val, correct}); }
+      });
+
+      const q5 = data.get('q5');
+      const expectedQ5 = 120;
+      const q5num = parseFloat(q5);
+      if(!isNaN(q5num) && Math.abs(q5num - expectedQ5) < 1e-6){ score += 1; details.push({q:'q5',ok:true}); }
+      else { details.push({q:'q5',ok:false, given:q5num, correct:expectedQ5}); }
+
+      const percent = Math.round((score/total)*100);
+      const fb = document.getElementById('feedback');
+      fb.innerHTML = '';
+
+      const resultBox = document.createElement('div');
+      resultBox.className = score === total ? 'result' : 'wrong';
+      resultBox.innerHTML = `<strong>Hasil: ${score} / ${total} (${percent}%)</strong>`;
+      fb.appendChild(resultBox);
+
+      details.forEach(d => {
+        if(!d.ok){
+          const el = document.createElement('div');
+          el.className = 'explain';
+          if(d.q === 'q5'){
+            el.innerHTML = `<strong>Soal 5:</strong> Jawaban Anda: ${d.given ?? 'kosong'}. Jawaban benar: ${d.correct}. (Luas alas = 0.5 × 6 × 4 = 12 cm³; Volume = 12 × 10 = 120 cm³)`;
+          } else {
+            const txtGiven = d.given ?? 'tidak menjawab';
+            el.innerHTML = `<strong>Soal ${d.q.slice(1)}:</strong> Jawaban Anda: ${txtGiven}. Jawaban benar: ${d.correct}.`;
+          }
+          fb.appendChild(el);
+        }
+      });
+
+      try{
+        const attempts = JSON.parse(localStorage.getItem('kuis_prisma_attempts') || '[]');
+        attempts.push({nama:name||null,kelas:kelas||null,score, total, time:new Date().toISOString()});
+        localStorage.setItem('kuis_prisma_attempts', JSON.stringify(attempts));
+      }catch(e){/* ignore */}
+
+      resultBox.scrollIntoView({behavior:'smooth', block:'center'});
+    });
+
+    document.getElementById('resetBtn').addEventListener('click', function(){
+      document.getElementById('quizForm').reset();
+      document.getElementById('feedback').innerHTML = '';
+    });
+  </script>
+</body>
+</html>
+
+  </div>
+</body>
+</html>
